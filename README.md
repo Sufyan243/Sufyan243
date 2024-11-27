@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="230" src="https://img.freepik.com/premium-vector/latina-boy-his-teens-learning-code_1238364-79942.jpg"  />
 
 
 ###
