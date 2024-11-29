@@ -9,11 +9,11 @@
 
 ###
 
-<img align="right" height="230" src="https://img.freepik.com/premium-vector/latina-boy-his-teens-learning-code_1238364-79942.jpg"  />
+<img align="right" height="240" src="https://img.freepik.com/premium-vector/latina-boy-his-teens-learning-code_1238364-79942.jpg"  />
 
 
 ###
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left" style="padding-top:10px;">🛠 Language and tools</h3>
 
 
 <div align="left">
