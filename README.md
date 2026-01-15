@@ -30,7 +30,8 @@ I believe in the power of technology to transform businesses and lives. Every pr
 
 <div align="center">
   
-![Sufyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sufyan243&show_icons=true&theme=tokyonight&hide_border=true)
+![Metrics](./github-metrics.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyan243&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
