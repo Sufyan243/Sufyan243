@@ -19,7 +19,7 @@ I like breaking complex problems into simple, reliable solutions and refining th
 -  Strong backend & logic focus  
 -  Comfortable across frontend and backend  
 -  Build complete systems, not just features  
-- 📚Always learning, always improving  
+- Always learning, always improving  
 
 ---
 
