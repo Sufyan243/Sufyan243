@@ -1,9 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Syed Muhammad Sufyan
+# Syed Muhammad Sufyan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=9D4EDD&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Backend-Focused+System+Builder" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=9D4EDD&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%26+SaaS+Builder;Shipped+Terra+Debugger+%C2%B7+Building+PostIdea;FastAPI+%C2%B7+React+%C2%B7+Spring+Boot+%C2%B7+Docker" />
 
 </div>
 
@@ -11,45 +10,35 @@
 
 ## About Me
 
-I'm a software developer who enjoys building real systems, from backend logic to clean frontends.  
-I work with multiple programming languages and frameworks, and I care about **clean code, correctness, and performance**.
+I build full stack products from scratch — architecture, backend, frontend, and deployment.
 
-I like breaking complex problems into simple, reliable solutions and refining things until they work properly — not “good enough”.
-
--  Strong backend & logic focus  
--  Comfortable across frontend and backend  
--  Build complete systems, not just features  
-- Always learning, always improving  
+- Shipped **[Terra Debugger](https://terradebugger.me)** — Python debugging SaaS with Docker sandboxing
+- Building **[PostIdea](https://postidea.app)** — AI spec & architecture validation platform (5-stage pipeline, 4-agent council)
+- Teaching programming to 50+ students at **Aptech** while completing my SE degree at **SSUET**
+- I work solo, move fast, and own everything end-to-end
 
 ---
 
 ## Tech Stack
 
-### Languages
-- Java  
-- JavaScript  
-- PHP  
-- Python  
-- C#  
-- HTML, CSS  
+**Languages:** Python · Java · JavaScript · TypeScript · PHP
 
-### Frameworks & Tools
-- Laravel  
-- React  
-- Node.js  
-- MySQL  
-- Git & GitHub  
+**Frameworks:** FastAPI · Spring Boot · React · Laravel · Flask
+
+**Databases:** PostgreSQL · MySQL · Redis
+
+**Tools & DevOps:** Docker · Nginx · Git · GitHub · Figma
+
+**AI & APIs:** OpenAI API · LangChain · Groq (LLaMA 3.3) · REST APIs
 
 ---
 
-## What I Do
+## Live Projects
 
-- Design and build full-stack applications  
-- Implement backend logic, APIs, and databases  
-- Create clean, usable frontends  
-- Debug, optimize, and improve existing systems  
-
-I focus on **clarity, structure, and reliability** over hype.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Terra Debugger](https://terradebugger.me) | Python debugging SaaS with secure sandbox | FastAPI · React · Docker · PostgreSQL |
+| [PostIdea](https://postidea.app) | AI architecture validation platform | FastAPI · React · Groq · Redis · Docker |
 
 ---
 
@@ -69,16 +58,14 @@ I focus on **clarity, structure, and reliability** over hype.
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/s.u.f.i_786/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-sufyan786)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Syed-Muhammad-Sufyan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sufyanportfolio-v-3.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmuhammadsufyan237@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-*"First make it work. Then make it right. Then make it fast."*
-
+<i>"Ship it. Learn from it. Build the next one better."</i>
 </div>
