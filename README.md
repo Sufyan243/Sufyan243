@@ -56,6 +56,7 @@ I build full stack products from scratch — architecture, backend, frontend, an
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-F55036?style=flat&logo=Claude&logoColor=white)
 ---
 
 ## Live Projects
